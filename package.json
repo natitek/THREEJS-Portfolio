@@ -1,4 +1,8 @@
-{
+{"scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+},
   "dependencies": {
     "gsap": "^3.12.7",
     "lil-gui": "^0.20.0",
