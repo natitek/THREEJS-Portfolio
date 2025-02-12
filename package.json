@@ -1,10 +1,4 @@
 {
-  "scripts": {
-    "dev": "npx vite",
-    "build": "npx vite",
-    "serve": "vite preview",
-    "deploy": "vercel --prod"
-  },
   "dependencies": {
     "gsap": "^3.12.7",
     "lil-gui": "^0.20.0",
