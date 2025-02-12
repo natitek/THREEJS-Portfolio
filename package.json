@@ -1,0 +1,18 @@
+{
+  "scripts":{
+    "dev": "vite",
+    "build": "npx vite",
+    "serve": "vite preview"
+  },
+
+
+  "dependencies": {
+    "gsap": "^3.12.7",
+    "lil-gui": "^0.20.0",
+    "mongodb": "^6.13.0",
+    "three": "^0.172.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.11"
+  }
+}
